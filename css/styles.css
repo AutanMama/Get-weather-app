@@ -49,11 +49,6 @@ button {
     font-weight: bolder;
 }
 
-button:hover {
-    background-color: #800080;
-    color: #fff;
-}
-
 .weather-info {
     font-size: 18px;
 }
